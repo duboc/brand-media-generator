@@ -132,11 +132,4 @@ brand-media-analyzer/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Google Vertex AI team for Gemini
-- Streamlit team for the amazing framework
-- Plotly team for visualization capabilities
-- ReportLab team for PDF generation 
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
